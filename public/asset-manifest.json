@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99572996.chunk.css",
+    "main.js": "/static/js/main.0d71cfad.chunk.js",
+    "main.js.map": "/static/js/main.0d71cfad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfae3202.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfae3202.js.map",
+    "static/js/2.17b71a24.chunk.js": "/static/js/2.17b71a24.chunk.js",
+    "static/js/2.17b71a24.chunk.js.map": "/static/js/2.17b71a24.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2bc1410e5d3b0a389cc677c87d5ff2e6.js": "/precache-manifest.2bc1410e5d3b0a389cc677c87d5ff2e6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.99572996.chunk.css.map": "/static/css/main.99572996.chunk.css.map",
+    "static/js/2.17b71a24.chunk.js.LICENSE.txt": "/static/js/2.17b71a24.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/views.d8a23fe7.svg",
+    "static/media/MinionPro.css": "/static/media/MinionPro-SemiboldIt.fe4ab528.ttf",
+    "static/media/PFBagueSansPro.css": "/static/media/PFBagueSansPro.fb7b3b2f.eot",
+    "static/media/default-image.png": "/static/media/default-image.8b77a166.png",
+    "static/media/comment-style.scss": "/static/media/menu.3b8b4218.svg",
+    "static/media/loader.scss": "/static/media/small-logo.9925efb7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfae3202.js",
+    "static/js/2.17b71a24.chunk.js",
+    "static/css/main.99572996.chunk.css",
+    "static/js/main.0d71cfad.chunk.js"
+  ]
+}
