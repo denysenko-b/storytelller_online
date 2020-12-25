@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9fbee0c.chunk.css",
-    "main.js": "/static/js/main.0d71cfad.chunk.js",
-    "main.js.map": "/static/js/main.0d71cfad.chunk.js.map",
+    "main.css": "/static/css/main.5efdbea0.chunk.css",
+    "main.js": "/static/js/main.8a1d5681.chunk.js",
+    "main.js.map": "/static/js/main.8a1d5681.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cfae3202.js",
     "runtime-main.js.map": "/static/js/runtime-main.cfae3202.js.map",
     "static/js/2.17b71a24.chunk.js": "/static/js/2.17b71a24.chunk.js",
     "static/js/2.17b71a24.chunk.js.map": "/static/js/2.17b71a24.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c337055754f8bfb84194a03553e1b85f.js": "/precache-manifest.c337055754f8bfb84194a03553e1b85f.js",
+    "precache-manifest.7a92d7c606a6db4ea52686e976dcb1e6.js": "/precache-manifest.7a92d7c606a6db4ea52686e976dcb1e6.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a9fbee0c.chunk.css.map": "/static/css/main.a9fbee0c.chunk.css.map",
+    "static/css/main.5efdbea0.chunk.css.map": "/static/css/main.5efdbea0.chunk.css.map",
     "static/js/2.17b71a24.chunk.js.LICENSE.txt": "/static/js/2.17b71a24.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/views.d8a23fe7.svg",
     "static/media/MinionPro.css": "/static/media/MinionPro-SemiboldIt.fe4ab528.ttf",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.cfae3202.js",
     "static/js/2.17b71a24.chunk.js",
-    "static/css/main.a9fbee0c.chunk.css",
-    "static/js/main.0d71cfad.chunk.js"
+    "static/css/main.5efdbea0.chunk.css",
+    "static/js/main.8a1d5681.chunk.js"
   ]
 }
