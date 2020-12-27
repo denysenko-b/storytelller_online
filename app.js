@@ -15,7 +15,8 @@ const corsOptions = {
         'http://localhost:9000',
         'http://127.0.0.1:9000',
         'https://storytelller.herokuapp.com',
-        'https://storyteller-kohl.vercel.app'
+        'https://storyteller-kohl.vercel.app',
+        'https://'
     ],
     methdos: [
         'PATCH',
